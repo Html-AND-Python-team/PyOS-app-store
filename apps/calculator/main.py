@@ -1,4 +1,4 @@
-def run(args):
+def run(ruta, args):
 
     if len(args) < 3:
 
